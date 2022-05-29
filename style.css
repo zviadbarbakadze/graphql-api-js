@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+}
+#container{
+    
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#continent-select{
+    width: 50%;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+    border-radius: 10px;
+    outline: none;
+
+}
